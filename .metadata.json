@@ -1,5 +1,9 @@
 [
   {
+    "package": "neonOS",
+    "oncran": true
+  },
+  {
     "package": "neonUtilities",
     "oncran": true
   }
