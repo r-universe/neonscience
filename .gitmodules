@@ -1,17 +1,12 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "neonOS"]
 	path = neonOS
 	url = https://github.com/neonscience/neon-os-data-processing
-	shallow = true
 	subdir = neonOS
-	registered = true
 [submodule "neonUtilities"]
 	path = neonUtilities
 	url = https://github.com/neonscience/neon-utilities
-	shallow = true
 	subdir = neonUtilities
-	registered = true
